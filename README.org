@@ -1,0 +1,10 @@
+* bk-tree
+
+Burkhard-Keller Tree implementation in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vy/bk-tree.git   |
+| commit  | ef98fd0  |
+| systems | bk-tree |
+|---------+-------------------------------------------|
+
